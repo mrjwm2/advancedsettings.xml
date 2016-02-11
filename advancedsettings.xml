@@ -1,0 +1,8 @@
+﻿<advancedsettings>
+  <video>
+    <cleandatetime>(.*)</cleandatetime>
+    <cleanstrings>
+      <RegExp></RegExp>
+    </cleanstrings>
+  </video>
+</advancedsettings>
